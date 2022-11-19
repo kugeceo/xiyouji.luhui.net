@@ -1,7 +1,7 @@
 document.write(`<table border="2" cellSpacing="0" width="100%" bordercolor="#808080">
   <tr>
     <td align="middle" bgColor="#ffff00" borderColorLight="#000000" width="73">
-      <p align="center"><script src="https://www.luhui.net/search/js/link.js"></script></p>
+      <p align="center"><script src="/link.js#https://www.luhui.net/search/js/link.js"></script></p>
     </td>
   </tr>
 </table>`)
