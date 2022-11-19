@@ -1,0 +1,183 @@
+body {
+	font-family: Helvetica, Georgia, Arial, sans-serif,新宋体, PMingLiU;
+	font-size: 16px;
+	background-image: url(axibkgnd.gif);
+	
+}
+
+
+
+
+/*注释文字-青色*/
+
+.q {
+
+	color: #008080;
+
+}
+
+/*注释文字-红色*/
+
+.h {
+
+	color: #FF0000;	
+
+}
+
+/*注释文字-蓝色*/
+
+.l{
+
+	color:#000080;
+
+}
+
+/*注释文字-紫色*/
+
+.z{
+
+	color:#FF00FF;
+
+}
+
+.g{
+
+	color:#666666;
+
+}
+
+
+
+/*标题*/
+
+
+/*标题橙色*/
+
+.s3 {
+    font-family: Helvetica, Georgia, Arial, sans-serif, 华文细黑, 黑体;
+    font-size: 20px;
+	color:#FF6600;
+	
+}
+
+
+/*标题蓝色*/
+
+.s8 {
+	font-family: Helvetica, Georgia, Arial, sans-serif, 华文细黑, 黑体;
+    font-size: 18px;
+	color:#000080;	
+	
+}
+
+
+
+
+p  {
+	text-align:left;
+	clear:left;
+	
+	
+}
+
+/*页尾菜单对齐*/
+
+.p1 {
+
+   text-align:center;
+   
+}
+
+/*页首菜单对齐*/
+
+.p2 {
+
+   text-align:right;
+
+      
+}
+
+table
+{
+	table-border-color-light: rgb(128, 128, 128);
+	table-border-color-dark: rgb(128, 128, 128);
+	border-color: rgb(128, 128, 128) rgb(128, 128, 128) #999999 #999999;
+	border-collapse: collapse;
+	text-align:left;
+	width:90%;
+		
+}
+
+/*80%表格宽度*/
+
+.tw1
+{
+	table-border-color-light: rgb(128, 128, 128);
+	table-border-color-dark: rgb(128, 128, 128);
+	border-color: rgb(128, 128, 128);
+	border-collapse: collapse;
+    width:80%
+}
+
+/*50%表格宽度*/
+
+.tw2
+{
+	table-border-color-light: rgb(128, 128, 128);
+	table-border-color-dark: rgb(128, 128, 128);
+	border-color: rgb(128, 128, 128);
+	border-collapse: collapse;
+    width:50%
+	
+}
+
+.tw3
+{
+	width:750px;
+	border:0;
+	text-align:center;
+
+}
+
+td {
+	font-family: Helvetica, Georgia, Arial, sans-serif, "新宋体", PMingLiU;
+	border-color: rgb(128, 128, 128);
+	height:20px;
+	
+}
+	
+th {
+	font-family: Helvetica, Georgia, Arial, sans-serif, 宋体, PMingLiU;
+	border-color: rgb(128, 128, 128);
+}
+
+/*链接*/
+
+a:link
+{
+	color: rgb(51, 102, 153);
+	text-decoration: none;
+}
+
+/*活动链接*/
+
+a:active
+{
+	color: rgb(68, 153, 238);
+}
+
+/*访问过的链接*/
+
+a:visited
+{
+	color: rgb(4, 71, 124);
+	text-decoration: none;	
+	}
+	
+/*鼠标悬停效果*/
+
+a:hover
+{
+	color:#FF6600;
+	text-decoration:underline;
+	}
