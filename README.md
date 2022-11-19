@@ -27,6 +27,8 @@ http://xyj.luhui.net
 
 http://xiyou.luhui.net
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15c276bd-7a29-4441-992e-730410a3ac6a/deploy-status)](https://app.netlify.com/sites/xiyouji/deploys)
+http://xiyouji.netlify.app
 
 
 《西游记》是一部中国古典神魔小说，为明代小说家所著，取材于《大唐西域记》和民间传说、元杂剧。宋代《大唐三藏取经诗话》（本名《大唐三藏取经记》）是西游记故事见于说话文字的最早雏形。自《西游记》问世以来在民间广为流传，各式各样的版样层出不穷，明代刊本有六种，清代刊本、抄本也有七种，典籍所记已佚版本十三种。
